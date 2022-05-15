@@ -1,5 +1,5 @@
 # Drum
-Git
-Play Your Beats
+
+Play Your Beats!!
 
 Link to website: https://zidane07092000.github.io/Drum/
